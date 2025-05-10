@@ -22,7 +22,7 @@ export default function TodoList() {
   };
 
   return (
-    <div className="min-h-screen ml-3 flex items-center justify-center bg-gradient-to-br from-purple-100 via-indigo-200 to-pink-100 transition-all duration-500 ease-in-out">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-indigo-200 to-pink-100 transition-all duration-500 ease-in-out">
         <div className="w-full max-w-md p-6 rounded-xl shadow-xl bg-white/60 backdrop-blur-sm border border-white/10 sm:mx-4 md:mx-6 lg:mx-8">
         <h1 className="text-3xl font-semibold text-center mb-6 text-gray-800">My Todo List</h1>
         <form onSubmit={handleAdd} className="flex gap-2 mb-4">
