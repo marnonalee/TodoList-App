@@ -1,5 +1,5 @@
-Todo List App
-A simple and modern Todo List app built with React, featuring a light purple gradient aesthetic. It allows users to add, mark, and delete tasks.
+# Todo List App
+A simple and modern Todo List app built with React. It allows users to add, mark, and delete tasks.
 
 Features
 
